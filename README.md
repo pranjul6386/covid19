@@ -1,2 +1,2 @@
 # covid19
-covid detection using ct_scan images
+covid-19 detection using ct_scan images
